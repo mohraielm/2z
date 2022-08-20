@@ -19,7 +19,7 @@ The following **required** functionality is completed:
 Here's a walkthrough of implemented features:
 
 
-<img src='https://user-images.githubusercontent.com/90027256/185733908-adac6fc9-5937-42df-9fd8-d644b85702e2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough'/>
+<img src='2zapp demo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough'/>
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).  
 
