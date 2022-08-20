@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="welcome_text">Hello Welcome to 2Z Band App, you will get to be introduced to amazing song suggestions!</string>
+    <string name="first_song">Find your first song!</string>
+</resources>
